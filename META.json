@@ -3,8 +3,8 @@
    "author" : [
       "Michael Aquilina <aquilina@cpan.org>"
    ],
-   "dynamic_config" : 0,
-   "generated_by" : "ExtUtils::MakeMaker version 6.52, CPAN::Meta::Converter version 2.112150",
+   "dynamic_config" : 1,
+   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112150",
    "license" : [
       "unknown"
    ],
@@ -15,7 +15,8 @@
    "name" : "Data-Pensieve",
    "no_index" : {
       "directory" : [
-         "t"
+         "t",
+         "inc"
       ]
    },
    "prereqs" : {
@@ -44,5 +45,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
